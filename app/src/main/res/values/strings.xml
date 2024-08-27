@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="option1">Select</string>
+    <string name="optio2">Select All</string>
+    <string name="optio3">Customise</string>
+    <string name="optio4">Search</string>
+    <string name="search">Search Contacts...</string>
+
+
+</resources>

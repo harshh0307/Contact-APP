@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#7400BCD4"
+    android:gravity="center"
+    android:padding="11dp"
+    android:id="@+id/toa">
+    <ImageView
+        android:layout_width="34dp"
+        android:layout_height="34dp"
+        android:src="@drawable/baseline_cloud_done_24">
+
+    </ImageView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Text Message"
+        android:textSize="20sp"
+        android:id="@+id/txtmsg"
+        android:textStyle="bold"
+        android:layout_marginLeft="11dp">
+z
+    </TextView>
+
+</LinearLayout>

@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RecyclerView" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#142793</item>
+        <item name="colorPrimaryDark">#2685D1</item>
+        <item name="colorAccent">#28B8CA</item>
+    </style>
+    <style name="MyActionThemeBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#142793</item>
+        <item name="colorPrimaryDark">#2685D1</item>
+        <item name="colorAccent">#28B8CA</item>
+    </style>
+
+    <style name="Theme.RecyclerView" parent="Base.Theme.RecyclerView" />
+</resources>

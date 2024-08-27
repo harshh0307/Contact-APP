@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/option"
+        android:title="@string/option1">
+
+    </item>
+    <item
+        android:id="@+id/op"
+        android:title="@string/optio2">
+
+    </item>
+    <item
+        android:id="@+id/id"
+        android:title="@string/optio3">
+
+    </item>
+<!--    <item-->
+<!--        android:id="@+id/search"-->
+<!--        android:title="@string/optio4"-->
+<!--        app:showAsAction="always"-->
+<!--        android:icon="@drawable/baseline_search_24"-->
+<!--        android:iconTint="#070707">-->
+<!--    </item>-->
+
+</menu>
